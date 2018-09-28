@@ -267,6 +267,7 @@
     "selector-max-universal": 1,
     "selector-no-qualifying-type": true,
     "selector-no-vendor-prefix": true,
+    "selector-type-case": null,
     "string-quotes": "double",
     "value-keyword-case": "lower",
     "value-list-comma-newline-after": "never-multi-line",
